@@ -1,0 +1,30 @@
+{
+			  "@context": "http://schema.org",
+			  "@type": "Organization",
+			  "name": "Maluweld",
+			  "url": "https://www.maluweld.com/",
+			  "logo": "https://www.maluweld.com/image/logo.jpg",
+			  "image": "https://www.maluweld.com/image/logo.jpg",
+			  "description": "MANUFACTURER OF ALL TYPES OF WELDING ELECTRODES AND WIRES.",
+			 
+"address": {
+	"@type": "PostalAddress",
+	"streetAddress": "Bhawani Welding Pvt. Ltd. Plot No.204 & 205, Umiya Industrial Area, Kapsi, Bhandara Road, Nagpur, Maharashtra, India",
+	"addressLocality": "Nagpur",
+	"addressRegion": "Maharashtra",
+	"postalCode": "440035",
+	"addressCountry": "India"
+	},
+
+			  
+			"sameAs" : [ "https://www.instagram.com/maluweld/",
+                                    "https://www.instagram.com/maluweld/",
+                                    "https://www.facebook.com/malu.welding"],
+				 
+			        "contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "+91 8208811424",
+                                
+				"contactType": "customer support"
+			  }
+			}
